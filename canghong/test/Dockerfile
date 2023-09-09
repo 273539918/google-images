@@ -1,0 +1,2 @@
+FROM canghong/test:v0.1
+MAINTAINER CANGHONG
